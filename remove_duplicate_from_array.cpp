@@ -12,7 +12,6 @@ int removeDuplicate(int arr[], int n)
             arr[j]=arr[i];
             j++;
         }
-
     }
     return j;
 }
